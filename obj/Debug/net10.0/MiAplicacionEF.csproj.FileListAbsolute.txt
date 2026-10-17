@@ -1,0 +1,14 @@
+E:\C#\MiAplicacionEF\bin\Debug\net10.0\MiAplicacionEF.exe
+E:\C#\MiAplicacionEF\bin\Debug\net10.0\MiAplicacionEF.deps.json
+E:\C#\MiAplicacionEF\bin\Debug\net10.0\MiAplicacionEF.runtimeconfig.json
+E:\C#\MiAplicacionEF\bin\Debug\net10.0\MiAplicacionEF.dll
+E:\C#\MiAplicacionEF\bin\Debug\net10.0\MiAplicacionEF.pdb
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\MiAplicacionEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\MiAplicacionEF.AssemblyInfoInputs.cache
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\MiAplicacionEF.AssemblyInfo.cs
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\MiAplicacionEF.csproj.CoreCompileInputs.cache
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\MiAplicacionEF.dll
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\refint\MiAplicacionEF.dll
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\MiAplicacionEF.pdb
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\MiAplicacionEF.genruntimeconfig.cache
+E:\C#\MiAplicacionEF\obj\Debug\net10.0\ref\MiAplicacionEF.dll
