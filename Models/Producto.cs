@@ -1,4 +1,3 @@
-namespace MiAplicacionEF;
 
 public class Producto
 {
